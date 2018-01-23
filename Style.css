@@ -1,0 +1,42 @@
+/* Choose color of text */
+p{
+  color: Black;
+}
+/* Choose colors of header */
+h1{
+  color: white;
+  background-color: black;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+/* Choose colors of background */
+body{
+  background-color: grey;
+}
+/* Choose border color for image */
+img{
+    border: 4px black double;
+}
+/* Choose colors, style, border, background and size of favorites */
+.favorite-section {
+  border: 1px black ridge;
+  margin: 5px;
+  padding: 10px;
+  background-color: darkgreen;
+}
+/* Choose colors of header */
+#favorite-movie {
+  color: black;
+  background-color: white;
+}
+
+#favorite-band {
+  color: black;
+  background-color: white;
+}
+#All-time-fav {
+  color: lightgreen;
+}
